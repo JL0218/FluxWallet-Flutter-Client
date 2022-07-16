@@ -1,0 +1,3 @@
+[submodule "FluxWallet-Server"]
+	path = FluxWallet-Server
+	url = https://github.com/JL0218/FluxWallet-Server.git
